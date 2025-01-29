@@ -1,7 +1,8 @@
 # Data Analysis for Business Project 2
+
 This project was completed as part of the coursework for the course Data Analysis for Business during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University.
 
-This project is involved an automobile dataset, including data cleaning, exploratory analysis, and predictive modeling of car prices, followed by clustering to classify car types based on their attributes.
+This project examines an automobile dataset through data cleaning, exploratory analysis, and predictive modeling of car prices, followed by clustering to categorize car types based on their attributes.
 
 The dataset contains information about automobiles: each of the 205 observations represents a different car model, with details about its features and price.
 
